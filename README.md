@@ -8,15 +8,14 @@ and then implement a platform to visualize many subjects
 
 As a self-driven student who is passionate about software systems,
 I have studied many high-quality online courses and finished the lab assignments
-with almost 100% grades. Here is my self-teaching records:
+with almost 100% grades. You can see my answers and notes in the corresponding repositories. 
 
-- Algorithms@Princeton University
-- 15-213@Carnegie Mellon University (Introduction to Computer Systems)
-- 6.S081@MIT(Operating System Engineering)
+- [x] Algorithms@Princeton University
+- [x] 15-213@Carnegie Mellon University (Introduction to Computer Systems)
+- [x] 6.S081@MIT (Operating System Engineering)
+- [ ] Database Systems
+- [ ] Distributed Systems
+- [ ] Game Development
+- [ ] UI/UX Design
 
-I plan to continue on:
-
-- Database Systems
-- Distributed Systems
-- Game Development
-- UI/UX Design
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangyuchen&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
