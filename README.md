@@ -3,8 +3,8 @@ major in Information Engineering at Shanghai Jiao Tong University.
 I am applying ECE/CS master programs in US and Switzerland for 2024 Fall admission.
 
 I hope to become a software design and architecture engineer in the future,
-and then implement a platform to visualize many subjects
-(literacy, history, geography, ...) into graphic form to serve as *visual library*.
+and then implement a platform to visualize subjects
+(literacy, history, geography, ...) in graphic form to serve as a *visual library*.
 
 As a self-driven student who is passionate about software systems,
 I have studied many high-quality online courses and finished the lab assignments
