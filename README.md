@@ -18,4 +18,4 @@ with almost 100% grades. You can see my answers and notes in the corresponding r
 - [ ] Game Development
 - [ ] UI/UX Design
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangyuchen&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangyuchen&layout=compact&hide=jupyter%20notebook,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
